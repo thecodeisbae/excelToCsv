@@ -1,6 +1,7 @@
 {
     "name": "thecodeisbae/excel-to-csv",
     "type": "library",
+    "version": "v1.0.0",
     "description": "A simple excel to Csv package",
     "keywords": ["excel","csv","excelToCsv"],
     "homepage": "https://github.com/thecodeisbae/excelToCsv",

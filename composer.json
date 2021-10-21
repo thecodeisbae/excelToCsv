@@ -1,5 +1,5 @@
 {
-    "name": "thecodeisbae/excelToCsv",
+    "name": "thecodeisbae/excel-to-csv",
     "type": "library",
     "description": "A simple excel to Csv package",
     "keywords": ["excel","csv","excelToCsv"],

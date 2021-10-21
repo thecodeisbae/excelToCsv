@@ -14,5 +14,10 @@
     ],
     "require": {
         "phpoffice/phpspreadsheet": "^1.18"
+    },
+    "autoload": {
+        "psr-0": {
+            "thecodeisbae\\ExcelToCsv\\": ""
+        }
     }
 }

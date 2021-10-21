@@ -16,8 +16,6 @@
         "phpoffice/phpspreadsheet": "^1.18"
     },
     "autoload": {
-        "psr-4": {
-            "ExcelToCsv\\": "src"
-        }
+        "files": ["src/ExcelToCsv.php"]
     }
 }

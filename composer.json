@@ -1,4 +1,17 @@
 {
+    "name": "thecodeisbae/excelToCsv",
+    "type": "library",
+    "description": "A simple excel to Csv package",
+    "keywords": ["excel","csv","excelToCsv"],
+    "homepage": "https://github.com/thecodeisbae/excelToCsv",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marilyn Prince",
+            "email": "thecodeisbae@gmail.com",
+            "role": "Developer"
+        }
+    ],
     "require": {
         "phpoffice/phpspreadsheet": "^1.18"
     }

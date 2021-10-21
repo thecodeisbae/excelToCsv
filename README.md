@@ -9,11 +9,11 @@ The Class constructor have 3 calls :
 
 Basic Usage
 
-require_once('vendor\autoload.php');
-use thecodeisbae\ExcelToCsv\ExcelToCsv;
-
-$convert = new ExcelToCsv('sample.xlsx','sample.xlsx');
-if($convert->convertExcelToCsv())
-    echo 'Convertion is ended please check for the root of the project to see files :)';
-else
-    echo 'An error occured check your file extension or your filePath';
+*require_once('vendor\autoload.php');*    
+*use thecodeisbae\ExcelToCsv\ExcelToCsv;*    
+    
+*$convert = new ExcelToCsv('sample.xlsx','sample.xlsx');*    
+*if($convert->convertExcelToCsv())*    
+    *&ensp;echo 'Convertion is ended please check for the root of the project to see files :)';*    
+*else*  
+    *&ensp;echo 'An error occured check your file extension or your filePath';*   

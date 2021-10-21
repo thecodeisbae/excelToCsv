@@ -7,9 +7,6 @@
 /** Set the namespace **/
 namespace thecodeisbae\ExcelToCsv;
 
-/** Load all require class using the autoload file **/
-//require_once("../vendor/autoload.php");
-
 /** Call for required class using the namespace PhpOffice\PhpSpreadsheet **/
 use PhpOffice\PhpSpreadsheet\Spreadsheet;
 use PhpOffice\PhpSpreadsheet\IOFactory as io_factory; 
